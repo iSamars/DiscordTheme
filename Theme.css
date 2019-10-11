@@ -1,5 +1,5 @@
+
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
-@import url('https://fonts.googleapis.com/css?family=Orbitron');
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
 @import url('https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css');
 ::selection {background:var(--main-color-faded) !important;}
@@ -13,18 +13,14 @@
 | $$  | $$|  $$$$$$/| $$      |  $$$$$$/| $$     |  $$$$$$$
 |__/  |__/ \______/ |__/       \______/ |__/      \_______/
 	       		By Tropical
-
 TABLE OF CONTENTS
-
 1. Background and Sizing
   1.a. Main Background
   1.b. Spacing
   1.c. General Transparency
   1.d. Light Mode Blocker
-
 2. Titlebar
   2.a. Main Titlebar
-
 3. Chat
   3.a. Messages and Codeblocks
   3.b. Dividers
@@ -43,7 +39,6 @@ TABLE OF CONTENTS
   3.o. Calls
   3.p. Typing Indicators
   3.q. Tags
-
 4. Channels Area
   4.a. Channels
   4.b. Account Details Container
@@ -52,7 +47,6 @@ TABLE OF CONTENTS
   4.e. Private Channels Icons
   4.f. Channel Notice
   4.g. Categories
-
 5. Guilds
   5.a. Wrapper
   5.b. Add/Create Guilds Button
@@ -63,12 +57,10 @@ TABLE OF CONTENTS
   5.b. Canary Add Guilds
   5.c. Canary Unread Ind.
   5.d. Canary HomeIcon
-
 6. Members List
   6.a. Transparency
   6.b. Selected and Hovered Content
   6.c. User Status
-
 7. Popups and Dropdowns
   7.a. Server Dropdown
   7.b. Status Picker
@@ -83,7 +75,6 @@ TABLE OF CONTENTS
   7.k. RTC Connection Popout
   7.l. Toasts
   7.m. @Everyone Popout
-
 8. Modals
   8.a. Transparency
   8.b. Upload Modal
@@ -94,7 +85,6 @@ TABLE OF CONTENTS
   8.g. Reactions Modal
   8.h. Profile Modal
   8.i. Download Apps Screen
-
 9. Settings
   9.a. Transparency and Sidebar
   9.b. Buttons and Checkboxes and Switches
@@ -117,21 +107,17 @@ TABLE OF CONTENTS
   9.s. Server Settings
   9.t. Ace CSS Editor
   9.u. Changelog
-
 10. Tag Animations (Animations by EllexideCodes, added here for support on tags.)
    10. Keyframes
-
 11. Store, Activity, Library, Friends and Server Discovery
   11.a. Store
   11.b. Activity
   11.c. Library
   11.d. Friends
-
 12. Out of app areas
   12.a. Login Screen
   12.b. Crash Screen
   12.c. Loading Screen
-
 13. Plugins
   13.a. Theme and Pluginrepo
   13.b. BetterFormattingRedux
@@ -144,9 +130,7 @@ TABLE OF CONTENTS
   13.i. Permissions Viewer
   13.j. StatusEverywhere
   13.k. Date Viewer
-
 14. Roundness
-
 15. Overwrite Grey SVG's
 */
 
@@ -283,7 +267,7 @@ body::before {
 	width: 100vw;
 	font-family:'Satisfy';
 	color: rgba(255,255,255,0.8);
-	font-size: 30px;
+	font-size: 19px;
 	font-weight:bold;
 }
 .da-winButtonClose:active {
