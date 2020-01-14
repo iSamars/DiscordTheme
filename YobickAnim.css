@@ -1331,3 +1331,6 @@ css-editor #bd-customcss-attach-controls button
 {
 	background: rgba(0,0,0,.5)!important;
 }
+.theme-dark .divider-3gKybi span{
+	background: transparent;
+}
