@@ -216,10 +216,6 @@ img.emoji:not(.jumboable)
 	margin-left: 10px;
 	margin-right: 10px;
 }
-.theme-dark .divider-3573oO
-{
-	background-color: #123;
-}
 .theme-dark .cardPrimaryOutline-29Ujqw
 {
 	border-color: #123;
@@ -259,10 +255,6 @@ img.emoji:not(.jumboable)
 	box-shadow: 0 2px 0 rgba(0,0,0,.3);
 	opacity: 1;
 	webkit-box-shadow: 0 2px 0 rgba(0,0,0,.3);
-}
-.theme-dark .divider-3573oO
-{
-	background-color: #123;
 }
 .theme-dark .notificationsSound-27jFSh
 {
@@ -308,10 +300,6 @@ img.emoji:not(.jumboable)
 .bda-slist .bda-header
 {
 	border-bottom: 1px solid #123;
-}
-.theme-dark .divider-3gKybi:not(.red-1YQ4s7) div,.theme-dark .divider-3gKybi span
-{
-	background: #123;
 }
 .theme-dark .attachButtonDivider-3Glu60
 {
